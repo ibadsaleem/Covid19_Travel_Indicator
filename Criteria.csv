@@ -1,0 +1,9 @@
+Active cases > 50000?,New Deaths > 500?,New Cases > 5000?,travelling,tourism
+1,1,1,unsafe,unsafe
+1,1,0,unsafe,unsafe
+1,0,1,unsafe,unsafe
+1,0,0,safe,unsafe
+0,1,1,unsafe,unsafe
+0,1,0,safe,unsafe
+0,0,1,unsafe,unsafe
+0,0,0,safe,unsafe
